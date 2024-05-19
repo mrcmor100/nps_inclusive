@@ -1,0 +1,11 @@
+
+
+#Directories
+comps/
+data/reports/
+data/reports2/
+data/replays/
+data/normalzied/
+monteCarlo/infiles/
+monteCarlo/worksim/
+monteCarlo/weighted/
